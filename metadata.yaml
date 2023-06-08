@@ -1,0 +1,43 @@
+_repo: On-the-effect-of-the-motion-of-a-body-upon-the-velocity-with-which-it-is-traversed-by-light_70863
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fizeau, H. (Hippolyte)
+    aliases:
+    - Fizeau, Armand Hippolyte Louis
+    - Fizeau, Hippolyte
+    - Fizeau, M. (Hippolyte)
+    birthdate: 1819
+    deathdate: 1896
+    gutenberg_agent_id: '55968'
+    url: http://www.gutenberg.org/2009/agents/55968
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Hippolyte_Fizeau
+    - https://en.wikipedia.org/wiki/Hippolyte_Fizeau
+description: '"Translated from the Annales de chimie et de physique for December 1859."
+
+  From the London, Edinburgh and Dublin Philosophical magazine and journal of science.
+  [Fourth series.] April 1860.'
+gutenberg_issued: '2023-05-26'
+identifiers:
+  gutenberg: '70863'
+language: en
+pgterms:marc904: https://archive.org/details/londonedinburghp19maga
+pgterms:marc905: 20230521042352fizeau
+pgterms:marc906: '1860'
+pgterms:marc907: UK
+production_note: Laura Natal Rodrigues (Images generously made available by The Internet
+  Archive.)
+publication_note: '  $aUK :$bLondon and Edinburgh Philosophical Magazine and Journal
+  of Science, $c1860.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Motion'
+- !lcsh 'Light -- Speed'
+- !lcc 'QC'
+- GITenberg
+title: On the effect of the motion of a body upon the velocity with which it is traversed
+  by light
+url: http://www.gutenberg.org/ebooks/70863
