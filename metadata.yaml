@@ -1,5 +1,8 @@
 _repo: On-the-effect-of-the-motion-of-a-body-upon-the-velocity-with-which-it-is-traversed-by-light_70863
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fizeau, H. (Hippolyte)
@@ -18,6 +21,8 @@ description: '"Translated from the Annales de chimie et de physique for December
 
   From the London, Edinburgh and Dublin Philosophical magazine and journal of science.
   [Fourth series.] April 1860.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70863#On-the-effect-of-the-motion-of-a-body-upon-the-velocity-with-which-it-is-traversed-by-light
 gutenberg_issued: '2023-05-26'
 identifiers:
   gutenberg: '70863'
